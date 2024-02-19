@@ -1,8 +1,8 @@
 # Hello :wave: I am Dolly Raj. Thanks for visiting my profile !
 -I'm a CSE graduate, currently working on upskilling 🌱 myself and gaining proficiency in DSA & also leaning Java.
-- My primary coding language is Java! 
+- My primary coding language is Java!
 
-- 💞️ I’m looking to collaborate on open source projects and happy to discuss Data Structures & Algorithms, Programming in Python/Java! 
+- I’m looking to collaborate on open source projects and happy to discuss Data Structures & Algorithms, Programming in Java! 
 
 - I'll be sharing my daily codes and learning here!
 
