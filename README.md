@@ -6,5 +6,5 @@
 
 - I'll be sharing my daily codes and learning here!
 
-- 📫 You can reach me over LinkedIn, looking forward to hearing from you!
-[LinkedIn](https://www.linkedin.com/in/dolly-raj-10423817b/)
+- You can reach me over [LinkedIn](https://www.linkedin.com/in/dolly-raj-10423817b/), looking forward to hearing from you!
+
